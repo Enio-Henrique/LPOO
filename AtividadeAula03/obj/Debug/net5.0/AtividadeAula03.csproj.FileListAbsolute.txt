@@ -1,0 +1,16 @@
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.exe
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.deps.json
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.runtimeconfig.json
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.runtimeconfig.dev.json
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.dll
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\ref\AtividadeAula03.dll
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\bin\Debug\net5.0\AtividadeAula03.pdb
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.csproj.AssemblyReference.cache
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.AssemblyInfoInputs.cache
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.AssemblyInfo.cs
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.csproj.CoreCompileInputs.cache
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.dll
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\ref\AtividadeAula03.dll
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.pdb
+C:\Users\eniot\Desktop\LPOO\LPOO\AtividadeAula03\obj\Debug\net5.0\AtividadeAula03.genruntimeconfig.cache
